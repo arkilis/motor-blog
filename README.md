@@ -43,7 +43,7 @@ Start MongoDB
 
 Copy motor\_blog.conf.example to motor\_blog.conf, edit it as desired. Start the application:
 
-    python server.py --debug --conf=motor\_blog.conf
+    python server.py --debug --config=motor\_blog.conf
 
 Visit http://localhost:8888/blog
 
